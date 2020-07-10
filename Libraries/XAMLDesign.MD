@@ -10,3 +10,7 @@ A toolkit for creating modern WPF applications. Lots of goodness out-of-the box.
 Hompepage: https://mahapps.com/
 
 Github   : https://github.com/MahApps/MahApps.Metro
+
+# HandyControl
+
+Github   : https://github.com/HandyOrg/HandyControl
